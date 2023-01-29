@@ -2,7 +2,7 @@
 Apenas um estudo de react, o foco foi maior no código do que no design final.
 
 # Como rodar
-instale as dependencias do node
+Instale as dependencias do node
 ```
 npm i
 ```
